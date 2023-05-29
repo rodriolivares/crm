@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan",
+      "notas": "El cliente desea un landing page"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan",
+      "notas": "El cliente desea un landing page"
+    },
+    {
+      "id": 3,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan",
+      "notas": "El cliente desea un landing page"
+    },
+    {
+      "id": 4,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan",
+      "notas": "El cliente desea un landing page"
+    },
+    {
+      "id": 6,
+      "nombre": "Rodrigo Olivares",
+      "telefono": 3465827,
+      "email": "erre@correo.com",
+      "empresa": "Aprendiendo Cosas",
+      "notas": "El cliente desea un landing page"
+    }
+  ]
+}
